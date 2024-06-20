@@ -2,7 +2,7 @@
 // console.log("Hello Techno students")
 
 
-//let message = "Anas";
+// let message = "Anas";
 // console.log(message);
 // alert(message);
 
@@ -37,7 +37,7 @@
 
 // let n = 123;
 // let nf = 12.344;
-// console log.("n,nf");
+// console.log(n,nf);
 
 
 // let bigint = 1234567890n;
@@ -83,9 +83,9 @@
 // console.log(a3);
 
 // 2.assignment operator 
-a1 =99;  a1 = 69 + 7
-a1 += 30;
-console.log(a1);
+// a1 =99;  a1 = 69 + 7
+// a1 += 30;
+// console.log(a1);
 
 // let n = 2;
 // n += 5; // now n = 7 (same as n = n + 5)
@@ -124,15 +124,14 @@ console.log(a1);
 // --x pre-decrement ...decrement x by 1 then return x
 // x-- post-decrement ...return x than decrement by 1
 
-// let f;
-// f = 10;
+// f = 105;
 // console.log(++f);  //11
 // console.log(f);     //11
 
 // let g;
-// g = 12;
-// console.log(g++);  //12
-// console.log(g);     //13
+// g = 111;
+// console.log(g++);  //102
+// console.log(g);     //109
 
 // let h;
 // h = 10;
@@ -164,9 +163,9 @@ console.log(a1);
 // console.log((c>2) || (c<2)); // true
 
 // ! NOT 
-// const a = true, b = false;
-// console.log(!a); // false
-// console.log(!b); // true
+const a = true, b = false;
+console.log(!a); // false
+console.log(!b); // true
 
 // url 
 // https://javascript.info/operators
