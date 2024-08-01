@@ -1,5 +1,5 @@
-// console.log("Hello Faiz123");
-// console.log("Hello Techno students")
+console.log("Hello Faiz123");
+console.log("Hello Techno students")
 
 
 // let message = "Anas";
@@ -163,9 +163,9 @@
 // console.log((c>2) || (c<2)); // true
 
 // ! NOT 
-const a = true, b = false;
-console.log(!a); // false
-console.log(!b); // true
+// const a = true, b = false;
+// console.log(!a); // false
+// console.log(!b); // true
 
 // url 
 // https://javascript.info/operators
@@ -193,12 +193,12 @@ console.log(!b); // true
 // https://javascript.info/function-basics
 
 
-// Array 
-// const fruites = ["Bannana", "Mango", "Orange", "Apple"];
+// // Array 
+const fruites = ["Bannana", "Mango", "Orange", "Apple"];
 //       index..... 0           1         2         3
 // length 4
 
-// Properties of Array
+// // Properties of Array
 // join()
 // The join() method also joins all array elements into a string.
 // pop()
